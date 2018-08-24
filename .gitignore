@@ -1,0 +1,7 @@
+*.o
+*.Po
+*.log
+*.in
+*.out
+*.swp
+tags
